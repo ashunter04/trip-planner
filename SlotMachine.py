@@ -1,16 +1,16 @@
 import random
-
+##
 #\n and print() = go to next line
 
 MAX_LINES = 3
 MAX_BET = 1000
 MIN_BET = 1
 
-ROWS = 3
-COLS = 3
+ROWS = 3 
+COLS = 3 
 
 #dictonary
-#symbols on machine + # of times they appear
+#symbols on machine + # of times they appear for user
 symbol_count = {
     "A": 2,
     "B": 4,
